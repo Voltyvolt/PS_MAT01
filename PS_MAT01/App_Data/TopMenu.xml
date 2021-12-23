@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="หน้าแรก" NavigateUrl="Default.aspx" />
+  <item Text="โปรแกรม" NavigateUrl="frmSoftware.aspx" />
+  <item Text="รายงาน" NavigateUrl="frmReportlist.aspx"  />
+  <!--<item Text="" NavigateUrl="#"  />-->
+  <!--<item Text="Support" NavigateUrl="#"  />-->
+</items>
